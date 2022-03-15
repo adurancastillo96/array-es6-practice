@@ -1,10 +1,10 @@
 // create an array of animals
 let animals = ["dog", "cat", "tortoise", "unicorn", "vulture", "walrus", "yak", "zebra"];
 
-// recorrer el array con forEach
-// animals.forEach(animal => {
-//     console.log(animal);
-// });
+//recorrer el array con forEach
+animals.forEach(animal => {
+    console.log(animal);
+});
 
 // recorrer con let of
 // for (let animal of animals) {

@@ -2,8 +2,7 @@ let peces = ["Dory", "Nemo", "Payasín"];
 
 // Utilizade el método filter para obtener un nuevo array solo con los peces que tienen más de 4 carácteres y mostradlo por consola
 
-//let nuevosPeces = peces.filter((pez) => pez.length > 4);
-
+//let nuevosPeces = peces.filter((pez) => pez[0] == "D");
 
 // Alternativa
 let nuevosPeces = peces.filter(comprobarPez);

@@ -10,19 +10,19 @@ console.log(edadMayorIndex);
 
 // array de personas
 
-let personas = [{
-    nombre: "Pedro",
-    edad: 10
-}, {
-    nombre: "Maria",
-    edad: 18
-}, {
-    nombre: "John",
-    edad: 19
-}
-];
+// let personas = [{
+//     nombre: "Pedro",
+//     edad: 10
+// }, {
+//     nombre: "Maria",
+//     edad: 18
+// }, {
+//     nombre: "John",
+//     edad: 19
+// }
+// ];
 
-// Devlovedme con el método find la primera persona que es mayor de edad
+// // Devlovedme con el método find la primera persona que es mayor de edad
 
-let personaMayorEdad = personas.find((persona) => persona.edad >= 18);
-console.log(personaMayorEdad);
+// let personaMayorEdad = personas.find((persona) => persona.edad >= 18);
+// console.log(personaMayorEdad);

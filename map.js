@@ -10,7 +10,7 @@ console.log(nuevoArr); // Devuelve [3, 5, 5, 9, 9]
 const nombresMaysculas = arr.map((e) => e.toUpperCase());
 console.log(nombresMaysculas);
 
-// utiliza el método map para crear un nuevo array donde cada elemento contga solo los dos primeros carácteres de cada uno de los nombres ["An", "Pa", "Pe"].... utulizar el método substring
-const nombresDosPrimerasLetras = arr.map((e) => e.substring(0, 2));
+// // utiliza el método map para crear un nuevo array donde cada elemento contga solo los dos primeros carácteres de cada uno de los nombres ["An", "Pa", "Pe"].... utulizar el método substring
+// const nombresDosPrimerasLetras = arr.map((e) => e.substring(0, 2));
 
-console.log(nombresDosPrimerasLetras);
+//console.log(nombresDosPrimerasLetras);
